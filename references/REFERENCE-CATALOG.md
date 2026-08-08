@@ -6,23 +6,7 @@
 
 ---
 
-## 一、抖音视频帧（6 张）
-
-来源：[@是剧剧呀 · 我们缺失美育真的太久了](https://v.douyin.com/WcBjM5iuSho/)  
-路径：`douyin-video-frames/` 或 `curated/douyin-video-frames/`
-
-| 文件 | 品类 | 年代 | 提取特征 |
-|------|------|------|----------|
-| `01-early-rabbit-candy-wrapper.png` | 糖纸 | ~1960 | 蓝白竖条边框、重复白兔、厂名+编号 |
-| `02-white-rabbit-wrapper-hand.png` | 糖纸 | ~1980 | 蓝白红三色、跳跃白兔、英文 White Rabbit |
-| `03-fruit-candy-qiqihar.png` | 糖纸 | ~1970 | 水果手绘、英文花体 Ning Meng、蓝粉竖条纹 |
-| `04-baihe-cigarette-label.png` | 烟标 | ~1970 | 竖排红字、双鹤线描、圆形「优」品质章 |
-| `05-guanshengyuan-rabbit-label.png` | 糖纸 | ~1980 | 圆形兔标、竖排厂名、蓝白红 |
-| `06-wine-labels-huangli-tianjin.png` | 酒标 | ~1970 | 红字+Huangli 花体；天津果酒网格信息区（**不用地图底**） |
-
----
-
-## 二、EAGA 高清（1 张）
+EAGA 高清（1 张）
 
 来源：[East Asian Graphics Archive · White Rabbit Candy Wrapper](https://eastasiangraphicsarchive.com/graphics/white-rabbit-candy-wrapper)  
 路径：`curated/eaga/white-rabbit-candy-wrapper.png`
