@@ -51,6 +51,29 @@
 
 小红书配文模板见 [`examples/xhs-batch-2/post-copy.md`](./examples/xhs-batch-2/post-copy.md)。
 
+### 小红书 · 2026 秋日历套系（月份牌擦笔水彩）
+
+画法统一为擦笔水彩人物，每月换一套 visual key。虚构厂牌「上海桂月食品厂」。
+
+<p align="center">
+  <img src="./examples/xhs-autumn-calendar/01-sept-change-mooncake-wrapper.png" alt="九月中秋 · 嫦娥 · 月饼纸" width="45%">
+  <img src="./examples/xhs-autumn-calendar/02-oct-lady-chrysanthemum.png" alt="十月金秋 · 采菊仕女" width="45%">
+</p>
+<p align="center">
+  <img src="./examples/xhs-autumn-calendar/03-nov-lady-stove.png" alt="十一月立冬 · 围炉仕女" width="45%">
+  <img src="./examples/xhs-autumn-calendar/04-sept-change-yuefenpai.png" alt="九月中秋 · 双妹月份牌" width="45%">
+</p>
+
+| 文件 | 月份 | Visual Key |
+|------|------|------------|
+| `examples/xhs-autumn-calendar/01-*.png` | 九月中秋 | 626 杏花楼月饼纸 |
+| `examples/xhs-autumn-calendar/02-*.png` | 十月金秋 | 627 福生园饼干铁听 |
+| `examples/xhs-autumn-calendar/03-*.png` | 十一月立冬 | 蓝白红糖纸族 |
+| `examples/xhs-autumn-calendar/04-*.png` | 九月中秋 | 634 广生行双妹月份牌 |
+| `examples/xhs-autumn-calendar/05-*.png` | 九月对比 | 655 深青静物（第一版） |
+
+配文见 [`examples/xhs-autumn-calendar/post-copy.md`](./examples/xhs-autumn-calendar/post-copy.md)。
+
 ### 早期 demo
 
 <p align="center">
